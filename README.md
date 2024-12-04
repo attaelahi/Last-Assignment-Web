@@ -1,2 +1,2 @@
 # Last-Assignment-Web
-Using only HTML and CSS this is the 
+This is the static website of Langchain developed using only html and css
